@@ -9,3 +9,5 @@
 iflipbrands/iflipbrands is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<img src="https://static.nc-img.com/pp/cms/myoffers-list/images/myoffers-relate-radar.d1295d12379b760532f3aa49bfad0af6.svg">
