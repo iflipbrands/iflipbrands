@@ -1,6 +1,6 @@
 👋 Hi, I’m Jasmine, or you can call me @iflipbrands.
 - 👀 I’m passionate about brand design, web development, systems, and marketing.
-- 🌱 I’m currently studying software engineering at AppAcademy.
+- 🌱 I’m currently studying software engineering.
 - 💞️ I’m open to collaborating on projects I'm building to make a positive impact on the world!
 - 📫 Reach me at: iflipbrands@gmail.com, on Twitter @iamjdw, or Discord @iflipbrands.
 - 😄 Pronouns: she/her.
