@@ -2,7 +2,7 @@
 - 👀 I’m passionate about brand design, web development, systems, and marketing.
 - 🌱 I’m currently studying software engineering.
 - 💞️ I’m open to collaborating on projects I'm building to make a positive impact on the world!
-- 📫 Reach me at: iflipbrands@gmail.com, on Twitter @iamjdw, or Discord @iflipbrands.
+- 📫 Reach me at: iflipbrands@gmail.com or Discord @iflipbrands.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I worked in the entertainment industry for 18 years as a manager, brander, and agent.
 
